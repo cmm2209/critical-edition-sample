@@ -70,34 +70,19 @@
                           </p>
                       </div>
                       <div type="section" xml:id="sextumproblema">
-                        <head><app xml:id="app-6.1" exclude="#app-rdg-Px-6.1">
-                                <lem wit="#γ #Gu #m #v"><num type="ordinal" value="6">Sextum</num>
-                                    problema</lem>
-                                <rdg wit="#Ea #Ma #Nu #Pp #Pq #Pz #Vz" ana="#subtractive"><add
-                                        place="margin"><num type="ordinal" value="6">6<hi
-                                                rend="superscript">m</hi></num></add></rdg>
-                                <rdg wit="#Py" ana="#additive"><surplus><hi rend="rubricated"><num
-                                                type="ordinal" value="6"
-                                        >sextum.</num></hi></surplus>
-                                    <num type="ordinal" value="6">Sextum.</num></rdg>
-                                <rdg wit="#Mb #Pu #Vm #Vo" ana="#subtractive"/>
-                            </app></head>
+                        <head><num type="ordinal" value="6">Sextum</num> problema</head>
                         <p n="1"><mentioned><app>
                                     <lem wit="#Pp #Pu #Vm #Vo">PROPTER QUID PARYPATE</lem>
                                     <rdg wit="#Pq" ana="#lexical">PROPTER QUID RATIONABILE EST</rdg>
                                     <rdg wit="#β #λ #Ea #Vb #Vz" ana="#subtractive"/>
-                                    <rdg wit="#Gu #Ma #Mb #Px #Pz  #Va #m #v" ana="#additive"><seg
+                                    <rdg wit="#Gu #Ma #Mb #Px #Pz #Va #m #v" ana="#additive"><seg
                                             xml:id="ment-6.1" n="1">PROPTER QUID PAR YPATE SECUNDUM
                                             RATIONEM IN CANTIBUS TRAGICUM.</seg>
                                         <seg xml:id="ment-6.2" n="2">AUT PROPTER INEQUALITATEM?
                                             PASSIUUM ENIM INEQUALE, ET IN MAGNITUDINE FORTUNE AUT
                                             TRISTITIE. EQUALE AUTEM MINUS PLORABILE UEL
-                                            ULULABILE</seg></rdg>
-                                </app>.</mentioned>
-                            <app xml:id="app-rdg-Px-6.1" exclude="#app-6.1">
-                                <rdg wit="#Px" ana="#additive"><num type="ordinal" value="6"
-                                        >Sextum</num> problema etcetera.</rdg>
-                            </app>
+                                            ULULABILE.</seg></rdg>
+                                </app></mentioned>
                             <gloss target="#ment-6.1"><app>
                                     <lem wit="#α #π #Px #m #v">Quare</lem>
                                     <rdg wit="#λ" ana="#additive">Querit quare</rdg>
@@ -414,10 +399,10 @@
                                 <lem wit="#β #κ #π #Ea #Vb" n="maxime"/>
                                 <rdg wit="#Va #m #v" ana="#additive">Deinde.</rdg>
                             </app>
-                            <mentioned><ref target="#ment-6.2"><app>
+                            <mentioned><app>
                                         <lem wit="#α #κ #Pp #Pu #Pz #Vo">AUT.</lem>
                                         <rdg wit="#Gu #m #v" ana="#additive">AUT QUIA.</rdg>
-                                    </app></ref></mentioned> Soluit dicens <app>
+                                    </app></mentioned> Soluit dicens <app>
                                 <lem wit="#γ #κ #π #Ea #Nu #m #v">causam esse sumptam</lem>
                                 <rdg wit="#Py" ana="#additive">causam esse causam sumptam</rdg>
                             </app>
@@ -579,22 +564,22 @@
                                     <rdg wit="#Py" ana="#morphological">pulsi scribitur</rdg>
                                     <rdg wit="#Gu #Pq" ana="#lexical #J">cantu scribitur</rdg>
                                 </app>
-                                <ref><app>
-                                    <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v"><title ref="https://viaf.org/viaf/2531163877720046060000/">de
+                                <ref target="https://viaf.org/viaf/2531163877720046060000/"><app>
+                                    <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v"><title>de
                                                 differentiis pulsuum</title></lem>
                                         <rdg wit="#Pz" ana="#lexical #additive #J"><num
                                                 type="cardinal" value="8">8</num>
                                             <title ref="#GaPu">differentiis pulsuum</title> et</rdg>
-                                    </app>
+                                    </app></ref>
                                     <app>
                                         <lem wit="#α #κ #Pp #Pu #Pz #Vo #m #v">a</lem>
                                         <rdg wit="#Gu" ana="#additive #J"><surplus>a</surplus>
                                             a</rdg>
                                     </app>
-                                    <name ref="https://viaf.org/viaf/44299175/"><app>
-                                            <lem wit="#β #κ #Ea #Vb #m #v">galeno</lem>
-                                            <rdg wit="#π #Va" ana="#orthographical">galieno</rdg>
-                                        </app>.</name></ref>
+                                    <ref target="https://viaf.org/viaf/44299175/"><name><app>
+                                            <lem wit="#β #κ #Ea #Vb #m #v">galeno.</lem>
+                                            <rdg wit="#π #Va" ana="#orthographical">galieno.</rdg>
+                                        </app></name></ref>
                             </cit>
                             <app>
                                 <lem wit="#β #γ #κ #Pu #m #v">Ceu</lem>
@@ -725,21 +710,14 @@
                                     <app>
                                         <lem wit="#γ #κ #Ea #Nu #m #v">cadunt <milestone ed="#Vz"
                                                 unit="folio" n="52v"/>musice</lem>
-                                        <rdg wit="#π" ana="#ordinal #J"><app>
-                                                <lem wit="#Gu #Pp #Vo" ana="#J">musice cadunt</lem>
-                                                <rdg wit="#Pz" ana="#morphological #J">musice
-                                                  cadant</rdg>
-                                            </app></rdg>
+                                        <rdg wit="#π" ana="#ordinal #J">musice cadunt</rdg>
                                         <rdg wit="#Py" ana="#additive">cadunt musice et</rdg>
                                     </app>.</quote>
                             </cit>Hoc autem pondus <app>
                                 <lem wit="#γ #λ #Ea #Nu #m #v">rebus expedit</lem>
                                 <rdg wit="#Py" ana="#lexical">rebus expetit</rdg>
                                 <rdg wit="#Px" ana="#lexical">rebus accidit</rdg>
-                                <rdg wit="#π" ana="#additive #J">expedit <app>
-                                        <lem wit="#Pp #Pu #Pz #Vo" ana="#J">conformari</lem>
-                                        <rdg wit="#Gu" ana="#orthographical #J">confirmari</rdg>
-                                    </app> rebus</rdg>
+                                <rdg wit="#π" ana="#additive #J">expedit conformari rebus</rdg>
                             </app> circa quas <app>
                                 <lem wit="#α #λ #Pz #Vo #m #v">extat</lem>
                                 <rdg wit="#Gu #Pp #Pu" ana="#morphological #J">extant</rdg>
@@ -750,10 +728,7 @@
                                 <rdg wit="#π" ana="#subtractive #J"/>
                             </app>, <app>
                                 <lem wit="#α #κ #Gu #Pz #Vo #m #v">cum eo</lem>
-                                <rdg wit="#Pp #Pq #Pu #Vc" ana="#lexical #J"><app>
-                                        <lem wit="#Pq #Pu #Vc" ana="#J">quod eo</lem>
-                                        <rdg wit="#Pp" ana="#ordinal #J">eo quod</rdg>
-                                    </app></rdg>
+                                <rdg wit="#Pp #Pq #Pu #Vc" ana="#lexical #J">quod eo</rdg>
                             </app>
                             <app>
                                 <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v">exprimantur</lem>
@@ -761,18 +736,12 @@
                             </app> passiones que sunt in anima.<cit>
                                 <quote rend="inline">
                                     <app>
-                                        <lem wit="#α #κ #Ca #Gu #Pa #Pp #Pu #Pz #Vc #m #v">Voces <app>
-                                                <lem wit="#α #κ #Pp #Pu #Pz #m #v">enim</lem>
-                                                <rdg wit="#Gu" ana="#lexical #J">autem</rdg>
-                                            </app>
+                                        <lem wit="#α #κ #Ca #Gu #Pa #Pp #Pu #Pz #Vc #m #v">Voces enim
                                             <app>
                                                 <lem wit="#α #κ #Gu #Pz #m #v">sunt</lem>
                                                 <rdg wit="#Pp #Pu" ana="#subtractive #J"/>
-                                            </app> note passionum <app>
-                                                <lem wit="#α #Gu #Ma #Pp #Pu #Px #Pz #Vm #m #v">que
-                                                  sunt</lem>
-                                                <rdg wit="#Vz" ana="#subtractive"/>
-                                            </app> in <app>
+                                            </app> note passionum que sunt in 
+                                            <app>
                                                 <lem wit="#α #κ #m #v">ea</lem>
                                                 <rdg wit="#Gu #Pp #Pu #Pz" ana="#lexical #J"
                                                   >anima</rdg>
@@ -781,27 +750,20 @@
                                             cause="homeoteleuton"/>
                                     </app> illeque rerum</quote>
                                 <milestone ed="#Vb" unit="column" n="B"/>
-                                <app>
-                                    <lem wit="#β #κ #π #Ea #Vb #m #v"><num type="ordinal"
-                                                value="1">primo</num></lem>
-                                    <rdg wit="#Va" ana="#lexical">id est</rdg>
-                                 </app>
+                                <bibl><biblScope unit="book" n="1"><num type="ordinal"
+                                                value="1">primo</num></biblScope></bibl>
                                     <ref><title ref="http://viaf.org/viaf/186598616"><app>
                                             <lem wit="#Gu #Ma #Pp #Px #Py #Vm #Vo #Vz #m #v"
-                                                >peryarmenias</lem>
-                                            <rdg wit="#Ea" ana="#orthographical">perihereminus</rdg>
-                                            <rdg wit="#Nu" ana="#orthographical">peryermenii</rdg>
+                                                >peryarmenias.</lem>
+                                            <rdg wit="#Ea" ana="#orthographical">perihereminus.</rdg>
+                                            <rdg wit="#Nu" ana="#orthographical">peryermenii.</rdg>
                                             <rdg wit="#Pu #Pz #Vb" ana="#orthographical"><choice>
                                                   <expan>p<ex>er</ex>y<ex>arm</ex>e<ex>ni</ex>as</expan>
                                                   <abbr>քye<hi rend="superscript">as</hi></abbr>
                                                 </choice>.</rdg>
-                                            <rdg wit="#Va" ana="#lexical">pergere</rdg>
-                                        </app>.</title></ref>
-                            </cit>Unde si res <app>
-                                <lem wit="#α #π #Ma #Px #Vm #m #v">fuerit</lem>
-                                <rdg wit="#Vz" ana="#morphological">fuit</rdg>
-                            </app>
-                            <app>
+                                            <rdg wit="#Va" ana="#lexical">pergere.</rdg>
+                                        </app></title></ref>
+                            </cit>Unde si res fuerit <app>
                                 <lem wit="#α #κ #Gu #Pz #Vo #m #v">alta</lem>
                                 <rdg wit="#Pp #Pq #Pu" ana="#lexical">altera</rdg>
                             </app>
@@ -820,11 +782,7 @@
                                 <rdg wit="#Nu" ana="#lexical">conuenit tregedia</rdg>
                                 <rdg wit="#Vz" ana="#lexical">querit tragedi</rdg>
                             </app>
-                            <app>
-                                <lem wit="#β #κ #π #Ea #Va #m #v">ipsam</lem>
-                                <rdg wit="#Vb" ana="#subtractive"/>
-                            </app>
-                            <app>
+                            ipsam <app>
                                 <lem wit="#α #π #Px #Vm #Vz #m #v">exprimere.</lem>
                                 <rdg wit="#Ma" ana="#lexical">exponere.</rdg>
                             </app> Si autem econtra <app>
@@ -846,14 +804,7 @@
                             <app>
                                 <lem wit="#α #κ #Pp #Pu #Pz #Vo #m #v">proprietas</lem>
                                 <rdg wit="#Gu" ana="#additive #J">proprietas approprietur</rdg>
-                            </app> subiecto. <milestone ed="#Gu" unit="column" n="B"/><milestone
-                                ed="#Vo" unit="column" n="B"/><app>
-                                <lem n="subiecto"/>
-                                <rdg wit="#Pz #Vz" ana="#additive">et cetera</rdg>
-                                <rdg wit="#Px" ana="#additive">sequitur <num type="ordinal"
-                                        value="7">7<hi rend="superscript">m</hi>.</num> problema
-                                        <num type="ordinal" value="19">19e.</num> particule.</rdg>
-                            </app></p>
+                            </app> subiecto.</p>
                     </div>
                   </div>
                 </div>
