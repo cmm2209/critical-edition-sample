@@ -688,14 +688,8 @@
                                 <rdg wit="#Pz" ana="#orthographical #J">mictiores</rdg>
                                 <rdg wit="#Gu #Pp #Pu" ana="#lexical #J">anteriores</rdg>
                             </app> exponere.</p>
-                        <p n="3"><app>
-                                <lem wit="#α #κ #π">Nosce</lem>
-                                <rdg wit="#m #v" ana="#lexical">Notandum</rdg>
-                            </app> quod <cit>
-                                <quote rend="inline">"pondus est <app>
-                                        <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v">illud</lem>
-                                        <rdg wit="#Pz" ana="#additive #J">illud quod</rdg>
-                                    </app> in <app>
+                        <p n="3">Nosce quod <cit>
+                                <quote rend="inline">"pondus est illud in <app>
                                         <lem wit="#α #κ #Gu #m #v">quo</lem>
                                         <rdg wit="#Ca #Pu #Vo" ana="#morphological #J">quod</rdg>
                                         <rdg wit="#Pp #Pq #Pz" ana="#morphological #J">quid</rdg>
@@ -728,49 +722,23 @@
                             </app>, <app>
                                 <lem wit="#α #κ #Gu #Pz #Vo #m #v">cum eo</lem>
                                 <rdg wit="#Pp #Pq #Pu #Vc" ana="#lexical #J">quod eo</rdg>
-                            </app>
-                            <app>
-                                <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v">exprimantur</lem>
-                                <rdg wit="#Pz" ana="#morphological #J">exprimatur</rdg>
-                            </app> passiones que sunt in anima.<cit>
+                            </app> exprimantur passiones que sunt in anima.<cit>
                                 <quote rend="inline">
-                                    "<app>
-                                        <lem wit="#α #κ #Ca #Gu #Pa #Pp #Pu #Pz #Vc #m #v">Voces enim
-                                            <app>
-                                                <lem wit="#α #κ #Gu #Pz #m #v">sunt</lem>
-                                                <rdg wit="#Pp #Pu" ana="#subtractive #J"/>
-                                            </app> note passionum que sunt in 
-                                            <app>
-                                                <lem wit="#α #κ #m #v">ea</lem>
-                                                <rdg wit="#Gu #Pp #Pu #Pz" ana="#lexical #J"
-                                                  >anima</rdg>
-                                            </app></lem>
-                                        <rdg wit="#Pq #Vo" ana="#subtractive #J"
-                                            cause="homeoteleuton"/>
-                                    </app> illeque rerum"</quote>
+                                    "Voces enim sunt note passionum que sunt in 
+                                      <app>
+                                        <lem wit="#α #κ #m #v">ea</lem>
+                                        <rdg wit="#Gu #Pp #Pu #Pz" ana="#lexical #J">anima</rdg>
+                                       </app>
+                                     illeque rerum"</quote>
                                 <milestone ed="#Vb" unit="column" n="B"/>
                                 <bibl><biblScope unit="book" n="1"><num type="ordinal"
                                                 value="1">primo</num></biblScope></bibl>
-                                    <ref><title ref="http://viaf.org/viaf/186598616"><app>
-                                            <lem wit="#Gu #Ma #Pp #Px #Py #Vm #Vo #Vz #m #v"
-                                                >peryarmenias.</lem>
-                                            <rdg wit="#Ea" ana="#orthographical">perihereminus.</rdg>
-                                            <rdg wit="#Nu" ana="#orthographical">peryermenii.</rdg>
-                                            <rdg wit="#Pu #Pz #Vb" ana="#orthographical"><choice>
-                                                  <expan>p<ex>er</ex>y<ex>arm</ex>e<ex>ni</ex>as</expan>
-                                                  <abbr>քye<hi rend="superscript">as</hi></abbr>
-                                                </choice>.</rdg>
-                                            <rdg wit="#Va" ana="#lexical">pergere.</rdg>
-                                        </app></title></ref>
-                            </cit> Unde si res fuerit <app>
+                                    <ref><title ref="http://viaf.org/viaf/186598616">peryarmenias.</title>
+                                    </ref></cit> Unde si res fuerit <app>
                                 <lem wit="#α #κ #Gu #Pz #Vo #m #v">alta</lem>
                                 <rdg wit="#Pp #Pq #Pu" ana="#lexical">altera</rdg>
                             </app>
-                            <app>
-                                <lem wit="#α #λ #π #m #v">in signis</lem>
-                                <rdg wit="#Px" ana="#lexical">insignis</rdg>
-                            </app>
-                            <app>
+                            in signis <app>
                                 <lem wit="#γ #Ea #Pp #Pu #Px #Py #Vo #m #v">contingit tragedia</lem>
                                 <rdg wit="#Gu #Pq" ana="#ordinal #J">tragedia contingit</rdg>
                                 <rdg wit="#Vm" ana="#orthographical"><choice>
@@ -781,29 +749,14 @@
                                 <rdg wit="#Nu" ana="#lexical">conuenit tregedia</rdg>
                                 <rdg wit="#Vz" ana="#lexical">querit tragedi</rdg>
                             </app>
-                            ipsam <app>
-                                <lem wit="#α #π #Px #Vm #Vz #m #v">exprimere.</lem>
-                                <rdg wit="#Ma" ana="#lexical">exponere.</rdg>
-                            </app> Si autem econtra <app>
-                                <lem wit="#γ #κ #π #Ea #Py #m #v">comedia</lem>
-                                <rdg wit="#Nu" ana="#orthographical">commedia</rdg>
-                            </app> ut modus <app>
+                            ipsam exprimere. Si autem econtra comedia ut modus <app>
                                 <lem wit="#β #κ #Ea #Gu #Pp #Pu #Vb #Vo #m #v">coaptetur</lem>
                                 <rdg wit="#Pz #Vc" ana="#lexical #J">coagiretur</rdg>
                                 <rdg wit="#Va" ana="#lexical">coitetur</rdg>
-                            </app>
-                            <app>
-                                <lem wit="#α #π #Px #Vm #Vz #m #v">rei</lem>
-                                <rdg wit="#Ma" ana="#lexical">ei</rdg>
-                            </app>
-                            <app>
+                            </app> rei <app>
                                 <lem wit="#β #γ #Ma #Mb #Px #Pz #Vz #m #v">ceu</lem>
                                 <rdg wit="#Ea #Gu #Pp #Pu #Vm #Vo" ana="#lexical">seu</rdg>
-                            </app>
-                            <app>
-                                <lem wit="#α #κ #Pp #Pu #Pz #Vo #m #v">proprietas</lem>
-                                <rdg wit="#Gu" ana="#additive #J">proprietas approprietur</rdg>
-                            </app> subiecto.</p>
+                            </app> proprietas subiecto.</p>
                     </div>
                   </div>
                 </div>
