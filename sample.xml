@@ -545,8 +545,7 @@
                                     <name>Paris, Bibliothèque Nationale man. lat. 6540</name>
                                     (accessed 2022-01-03), <locus from="154v" to="164v">ff.
                                         154v-64v</locus>
-                                    <date>Fourteenth century</date>.
-                                            <note><origPlace>Italy</origPlace></note>. <ptr
+                                    <date>Fourteenth century</date>. <ptr
                                         target="http://gallica.bnf.fr/ark:/12148/btv1b90684121.r=6540"
                                     />
                                 </witness>
@@ -591,8 +590,7 @@
                                                 >S.VI.3, ff. 38v–56r</locus>
                                             <date>1381</date>. <ptr
                                                 target="http://catalogoaperto.malatestiana.it/elenco-libri/libro/?saggioid=SX.06.03"
-                                                /><note>A copy of M<hi rend="superscript"
-                                                >a</hi></note>
+                                                />
                                         </witness>
                                     </listWit>
                                 </witness>
@@ -637,21 +635,7 @@
                                                 6541A</name> (accessed 2022-01-03), <locus
                                                 from="179r" to="192r">ff. 179r-92r</locus>
                                             <date>fourteenth century</date>. <ptr
-                                                target="http://gallica.bnf.fr/ark:/12148/btv1b90680829/f2"/><msDesc>
-                                                <msIdentifier>
-                                                  <objectName>Pz</objectName>
-                                                </msIdentifier>
-                                                <physDesc>
-                                                  <handDesc hands="2">
-                                                  <handNote xml:id="Pzh2">
-                                                  <abbr type="siglum">P<hi rend="superscript"
-                                                  >z2</hi></abbr> is responsible for the header, and
-                                                  writes in an ink that has faded significantly. It
-                                                  may be the same scribe who wrote the large
-                                                  initials which begin each problem. </handNote>
-                                                  </handDesc>
-                                                </physDesc>
-                                            </msDesc>
+                                                target="http://gallica.bnf.fr/ark:/12148/btv1b90680829/f2"/>
                                         </witness>
                                         <witness xml:id="Vo">
                                             <abbr type="siglum">V<hi rend="superscript"
