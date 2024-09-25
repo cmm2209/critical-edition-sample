@@ -5,12 +5,12 @@
     <teiHeader>
         <fileDesc>
             <titleStmt>
-                <title>Expositio problematum Aristotelis, Particula XIX: De harmonia</title>
-                <author>Pietro d’Abano</author>
-                <editor>Caleb Mutch</editor>
+                <title/>
+                <author/>
+                <editor/>
             </titleStmt>
             <publicationStmt>
-                <publisher>The Digital Latin Library</publisher>
+                <publisher/>
                 <availability>
                     <licence target="https://creativecommons.org/licenses/by-sa/4.0/legalcode">Creative
                         Commons Attribution-ShareAlike 4.0 International Licence (CC BY-SA 4.0)</licence>
@@ -28,7 +28,8 @@
                 <div type="textpart" subtype="book" n="19" xml:id="book-19a">
                     <div type="textpart" subtype="problem" n="6" xml:id="part6">
                       <div type="section" xml:id="note">
-                        <head>Note</head>
+                        <head>Expositio problematum Aristotelis, Particula XIX: De harmonia</head>
+                         <head>By Pietro d'Abano, edited by Caleb Mutch</head> 
                           <p n="1">
                               This is a sample of my critical edition of Pietro d'Abano's commentary on book XIX 
                               ("Concerning Music") of the pseudo-Aristotelian Problemata. The Problemata was the 
@@ -49,13 +50,23 @@
                           </p>
                           <p n="3">
                               My XML encoding of the text classifies every textual variant, allowing for readers to filter 
-                              out types of variation (differences in spelling, word ordering, and so forth) as they like. 
-                              Additionally, I have enabled readers to filter out readings found only in Jean de Jandun's
+                              out types of variation (differences in spelling, word ordering, and so forth) as they like.
+                              Variants may be viewed by mousing-over the dialog boxes beside each paragraph of the text,
+                              or viewed in the traditional Apparatus Criticus format below. Clicking on the dialog boxes
+                              allows viewers to substitute their chosen variants into the main text. The abbreviations
+                              following each reading indicate which manuscript or family of manuscripts contains that
+                              reading; an account of all the manuscripts (including hyperlinks to online versions, where
+                              available) may be found at the end of the page. 
+                          </p>
+                          <p n="4">
+                              I have also enabled readers to filter out readings found only in Jean de Jandun's
                               redaction of the text. Shortly after Pietro finished his commentary, Jean (a leading 
                               scholar at the University of Paris) produced a revision of Pietro's work, and a third of
                               the surviving manuscripts descend from Jean's redaction. As a result, they do not help
                               to establish Pietro's original text, but they provide an informative witness to the text's
-                              reception at a major source of learning.
+                              reception at a major source of learning. My thanks to the <ref 
+                              target="https://digitallatin.org/">Digital Latin Library</ref>, from whom I have adapted 
+                              this "reading room" viewer for XML-based critical editions.
                           </p>
                       </div>
                       <div type="section" xml:id="sextumproblema">
@@ -347,21 +358,18 @@
                             </app>
                             <app>
                                 <lem wit="#γ #Ea #Px #Py #Vm #Vz #m #v">maneries a quibus <num
-                                        type="ordinal" value="3">3°</num></lem>
+                                        type="ordinal" value="3">tertio</num></lem>
                                 <rdg wit="#π #Ma #Nu" ana="#lexical"><app>
                                         <lem wit="#Ma #Vo">maneries a quibusdam <num type="ordinal"
-                                                value="3">3<hi rend="superscript">a</hi></num></lem>
+                                                value="3">tertia</num></lem>
                                         <rdg wit="#Gu" ana="#ordinal #J">maneries <num
-                                                type="ordinal" value="3">3<hi rend="superscript"
-                                                  >a</hi>.</num> a quibusdam</rdg>
+                                                type="ordinal" value="3">tertia</num> a quibusdam</rdg>
                                         <rdg wit="#Pz" ana="#ordinal #J">a quibusdam maneries <num
-                                                type="ordinal" value="3">3<hi rend="superscript"
-                                                  >a</hi></num></rdg>
+                                                type="ordinal" value="3">tertia</num></rdg>
                                         <rdg wit="#Pp #Pu" ana="#subtractive #J">maneries a
                                             quibusdam</rdg>
                                         <rdg wit="#Nu" ana="#additive">maneries a quibusdam <num
-                                                type="ordinal" value="3">3<hi rend="superscript"
-                                                  >a</hi></num> a</rdg>
+                                                type="ordinal" value="3">tertia</num> a</rdg>
                                     </app></rdg>
                             </app>
                             <app>
@@ -572,7 +580,7 @@
                                     <rdg wit="#Gu #Pq" ana="#lexical #J">cantu scribitur</rdg>
                                 </app>
                                 <ref><app>
-                                        <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v"><title ref="#GaPu">de
+                                    <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v"><title ref="https://viaf.org/viaf/2531163877720046060000/">de
                                                 differentiis pulsuum</title></lem>
                                         <rdg wit="#Pz" ana="#lexical #additive #J"><num
                                                 type="cardinal" value="8">8</num>
@@ -583,17 +591,10 @@
                                         <rdg wit="#Gu" ana="#additive #J"><surplus>a</surplus>
                                             a</rdg>
                                     </app>
-                                    <name ref="#Ga"><app>
+                                    <name ref="https://viaf.org/viaf/44299175/"><app>
                                             <lem wit="#β #κ #Ea #Vb #m #v">galeno</lem>
                                             <rdg wit="#π #Va" ana="#orthographical">galieno</rdg>
                                         </app>.</name></ref>
-                                <bibl corresp="#GaPu"><author>Gal.</author>
-                                    <title>De diff. puls.</title>
-                                    <biblScope unit="book" n="1">I</biblScope>.<biblScope
-                                        unit="chapter" n="8">8</biblScope> (I.12 in Latin trans. by
-                                    Burgundio of Pisa) <note type="parallel" target="#quote-6.1-Gal"
-                                        >Cf. <title ref="#AbCo">Conciliator</title> diff.
-                                    83</note></bibl>
                             </cit>
                             <app>
                                 <lem wit="#β #γ #κ #Pu #m #v">Ceu</lem>
@@ -716,8 +717,8 @@
                                         <rdg wit="#Pp #Pq #Pz" ana="#morphological #J">quid</rdg>
                                     </app> proportiones</quote>
                                 <app>
-                                    <lem wit="#α #κ #m #v">secundum <ref><name ref="#Av"
-                                                >auicenna</name></ref></lem>
+                                    <lem wit="#α #κ #m #v">secundum 
+                                      <ref><name ref="http://viaf.org/viaf/89770781">auicenna</name></ref></lem>
                                     <rdg wit="#π" ana="#subtractive #J"/>
                                 </app>
                                 <quote rend="inline">
@@ -731,11 +732,6 @@
                                             </app></rdg>
                                         <rdg wit="#Py" ana="#additive">cadunt musice et</rdg>
                                     </app>.</quote>
-                                <bibl corresp="#AvCa"><author>Avic.</author>
-                                    <title ref="#AvCa">Can. med.</title> Book <biblScope unit="book"
-                                        n="1">I</biblScope>, fen <biblScope unit="fen" n="2"
-                                        >2</biblScope>, <biblScope unit="doctrine" n="3"
-                                        >3</biblScope> (p. 141 of 1608 ed.)</bibl>
                             </cit>Hoc autem pondus <app>
                                 <lem wit="#γ #λ #Ea #Nu #m #v">rebus expedit</lem>
                                 <rdg wit="#Py" ana="#lexical">rebus expetit</rdg>
@@ -785,12 +781,12 @@
                                             cause="homeoteleuton"/>
                                     </app> illeque rerum</quote>
                                 <milestone ed="#Vb" unit="column" n="B"/>
-                                <ref><app>
-                                        <lem wit="#β #κ #π #Ea #Vb #m #v"><num type="ordinal"
+                                <app>
+                                    <lem wit="#β #κ #π #Ea #Vb #m #v"><num type="ordinal"
                                                 value="1">primo</num></lem>
-                                        <rdg wit="#Va" ana="#lexical">id est</rdg>
-                                    </app>
-                                    <title ref="#ArPe"><app>
+                                    <rdg wit="#Va" ana="#lexical">id est</rdg>
+                                 </app>
+                                    <ref><title ref="http://viaf.org/viaf/186598616"><app>
                                             <lem wit="#Gu #Ma #Pp #Px #Py #Vm #Vo #Vz #m #v"
                                                 >peryarmenias</lem>
                                             <rdg wit="#Ea" ana="#orthographical">perihereminus</rdg>
@@ -801,12 +797,6 @@
                                                 </choice>.</rdg>
                                             <rdg wit="#Va" ana="#lexical">pergere</rdg>
                                         </app>.</title></ref>
-                                <bibl corresp="#ArPe"><author>Arist.</author>
-                                    <title ref="#ArPe">Peri herm.</title>
-                                    <biblScope unit="book" n="1">I</biblScope>.<biblScope
-                                        unit="chapter" n="1">1</biblScope>, <biblScope unit="page"
-                                        n="16a">16a</biblScope> ll. <biblScope unit="line" from="5"
-                                        to="6">5–6</biblScope></bibl>
                             </cit>Unde si res <app>
                                 <lem wit="#α #π #Ma #Px #Vm #m #v">fuerit</lem>
                                 <rdg wit="#Vz" ana="#morphological">fuit</rdg>
