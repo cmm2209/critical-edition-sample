@@ -687,6 +687,7 @@ var appcrit = (function () {
   			$(data).find("tei-add[place=margin]").append("<span class=\"note\"> (in mg.)</span>");
 
   			//Add navigation header
+  			/* 
   			var nav = $("<div/>", { id: "navigation" });
   			nav.html("<h2>Contents:</h2><ul></ul>");
   			nav.appendTo("#controls");
@@ -709,6 +710,7 @@ var appcrit = (function () {
   				}
   			});
   			$(":checkbox").change(this.toggleApps);
+  			*/
   			/*
      $(this.dom).find("tei-div[type=textpart],tei-front").each(function(i, elt){
      	self.doSection($(elt));
