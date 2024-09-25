@@ -1,2 +1,2 @@
 # Problemata
-The text of the edition is split into two parts: problems1.xml and problems2.xml.
+A sample of Caleb Mutch's digital critical edition of Pietro d'Abano's commentary on the pseudo-Aristotelian Problemata.
