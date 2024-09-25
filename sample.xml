@@ -25,9 +25,9 @@
     <text>
         <body>
             <div type="edition" xml:id="edition-text">
-                <div type="textpart" subtype="book" n="19" xml:id="book-19a">
-                    <div type="textpart" subtype="problem" n="6" xml:id="part6">
-                      <div type="section" xml:id="note">
+                <div type="textpart" subtype="book" n="19" xml:id="problem6">
+                    <div type="textpart" subtype="problem" n="6">
+                      <div type="section">
                         <head>Expositio problematum Aristotelis, Particula XIX: De harmonia</head>
                          <head>By Pietro d'Abano, edited by Caleb Mutch</head> 
                           <p n="1">
@@ -69,7 +69,7 @@
                               this "reading room" viewer for XML-based critical editions.
                           </p>
                       </div>
-                      <div type="section" xml:id="sextumproblema">
+                      <div type="section">
                         <head><num type="ordinal" value="6">Sextum</num> problema</head>
                         <p n="1"><mentioned><app>
                                     <lem wit="#Pp #Pu #Vm #Vo">PROPTER QUID PARYPATE</lem>
@@ -542,7 +542,7 @@
                                 <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v">existit</lem>
                                 <rdg wit="#Pz" ana="#lexical #J">extitit</rdg>
                             </app>. <milestone ed="#Gu" unit="column" n="B"/>Tunc cantus consurgit <cit>
-                                <quote rend="inline" xml:id="quote-6.1-Gal"><app>
+                                <quote rend="inline" xml:id="quote-6.1-Gal">"<app>
                                         <lem wit="#γ #κ #Ea #Gu #Nu #Pp #Pu #Vo #m #v"
                                             >eurithimus</lem>
                                         <rdg wit="#Pz" ana="#lexical #J">onrichimius</rdg>
@@ -550,7 +550,7 @@
                                                 <sic>in rich enrichimus</sic>
                                                 <corr>enrichimus</corr>
                                             </choice></rdg>
-                                    </app></quote>
+                                    </app>"</quote>
                                 <app>
                                     <lem wit="#Ea #Ma #Pu #Px #Py #Pz #Va #Vm #Vo">sicut de
                                         huius</lem>
@@ -580,8 +580,7 @@
                                             <lem wit="#β #κ #Ea #Vb #m #v">galeno.</lem>
                                             <rdg wit="#π #Va" ana="#orthographical">galieno.</rdg>
                                         </app></name></ref>
-                            </cit>
-                            <app>
+                            </cit> <app>
                                 <lem wit="#β #γ #κ #Pu #m #v">Ceu</lem>
                                 <rdg wit="#Ea #Gu #Pp #Pz #Vo" ana="#lexical">Seu</rdg>
                             </app> in <app>
@@ -693,27 +692,27 @@
                                 <lem wit="#α #κ #π">Nosce</lem>
                                 <rdg wit="#m #v" ana="#lexical">Notandum</rdg>
                             </app> quod <cit>
-                                <quote rend="inline">pondus est <app>
+                                <quote rend="inline">"pondus est <app>
                                         <lem wit="#α #κ #Gu #Pp #Pu #Vo #m #v">illud</lem>
                                         <rdg wit="#Pz" ana="#additive #J">illud quod</rdg>
                                     </app> in <app>
                                         <lem wit="#α #κ #Gu #m #v">quo</lem>
                                         <rdg wit="#Ca #Pu #Vo" ana="#morphological #J">quod</rdg>
                                         <rdg wit="#Pp #Pq #Pz" ana="#morphological #J">quid</rdg>
-                                    </app> proportiones</quote>
+                                    </app> proportiones"</quote>
                                 <app>
                                     <lem wit="#α #κ #m #v">secundum 
                                       <ref><name ref="http://viaf.org/viaf/89770781">auicenna</name></ref></lem>
                                     <rdg wit="#π" ana="#subtractive #J"/>
                                 </app>
                                 <quote rend="inline">
-                                    <app>
+                                    "<app>
                                         <lem wit="#γ #κ #Ea #Nu #m #v">cadunt <milestone ed="#Vz"
                                                 unit="folio" n="52v"/>musice</lem>
                                         <rdg wit="#π" ana="#ordinal #J">musice cadunt</rdg>
                                         <rdg wit="#Py" ana="#additive">cadunt musice et</rdg>
-                                    </app>.</quote>
-                            </cit>Hoc autem pondus <app>
+                                    </app>."</quote>
+                            </cit> Hoc autem pondus <app>
                                 <lem wit="#γ #λ #Ea #Nu #m #v">rebus expedit</lem>
                                 <rdg wit="#Py" ana="#lexical">rebus expetit</rdg>
                                 <rdg wit="#Px" ana="#lexical">rebus accidit</rdg>
@@ -735,7 +734,7 @@
                                 <rdg wit="#Pz" ana="#morphological #J">exprimatur</rdg>
                             </app> passiones que sunt in anima.<cit>
                                 <quote rend="inline">
-                                    <app>
+                                    "<app>
                                         <lem wit="#α #κ #Ca #Gu #Pa #Pp #Pu #Pz #Vc #m #v">Voces enim
                                             <app>
                                                 <lem wit="#α #κ #Gu #Pz #m #v">sunt</lem>
@@ -748,7 +747,7 @@
                                             </app></lem>
                                         <rdg wit="#Pq #Vo" ana="#subtractive #J"
                                             cause="homeoteleuton"/>
-                                    </app> illeque rerum</quote>
+                                    </app> illeque rerum"</quote>
                                 <milestone ed="#Vb" unit="column" n="B"/>
                                 <bibl><biblScope unit="book" n="1"><num type="ordinal"
                                                 value="1">primo</num></biblScope></bibl>
@@ -763,7 +762,7 @@
                                                 </choice>.</rdg>
                                             <rdg wit="#Va" ana="#lexical">pergere.</rdg>
                                         </app></title></ref>
-                            </cit>Unde si res fuerit <app>
+                            </cit> Unde si res fuerit <app>
                                 <lem wit="#α #κ #Gu #Pz #Vo #m #v">alta</lem>
                                 <rdg wit="#Pp #Pq #Pu" ana="#lexical">altera</rdg>
                             </app>
