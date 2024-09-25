@@ -687,20 +687,20 @@ var appcrit = (function () {
   			$(data).find("tei-add[place=margin]").append("<span class=\"note\"> (in mg.)</span>");
 
   			//Add navigation header
-  			/* 
+  			
   			var nav = $("<div/>", { id: "navigation" });
-  			nav.html("<h2>Contents:</h2><ul></ul>");
-  			nav.appendTo("#controls");
+  			// nav.html("<h2>Contents:</h2><ul></ul>");
+  			// nav.appendTo("#controls");
   			var ul = nav.find("ul");
-  			ul.append("<li><a href=\"#front\">Front Matter</a></li>");
+  			// ul.append("<li><a href=\"#front\">Front Matter</a></li>");
   			var parts = $(data).find("tei-div[type=textpart]");
   			if (parts.length == 0) {
   				parts = $(data).find("tei-div[type=edition]");
   			}
-  			parts.each(function (i, elt) {
-  				ul.append("<li><a href=\"#" + $(elt).attr("id") + "\">" + $(elt).find("tei-head").html() + "</a></li>");
-  			});
-  			ul.append("<li><a href=\"#apparatus\">Apparatus</a></li>");
+  			// parts.each(function (i, elt) {
+  			// 	ul.append("<li><a href=\"#" + $(elt).attr("id") + "\">" + $(elt).find("tei-head").html() + "</a></li>");
+  			// });
+  			// ul.append("<li><a href=\"#apparatus\">Apparatus</a></li>");
 
   			nav.find("a").click(function (e) {
   				$("a.selected").toggleClass("selected");
@@ -710,7 +710,7 @@ var appcrit = (function () {
   				}
   			});
   			$(":checkbox").change(this.toggleApps);
-  			*/
+  			
   			/*
      $(this.dom).find("tei-div[type=textpart],tei-front").each(function(i, elt){
      	self.doSection($(elt));
