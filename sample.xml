@@ -149,12 +149,9 @@
                                 <lem>construitur</lem>
                                 <rdg wit="#γ" ana="#lexical">constituitur</rdg>
                             </app> reprehensorio ceu modus 
-                            <persName ref="http://viaf.org/viaf/100227522">oratii</persName>
+                            <ref target="http://viaf.org/viaf/100227522"><persName>oratii</persName></ref>
                                 fuit maxime.</p>
-                          <p n="2"><app>
-                              <lem n="maxime"/>
-                              <rdg wit="#Va #m #v" ana="#additive">Deinde.</rdg>
-                          </app>
+                          <p n="2">
                               <mentioned><ref target="#ment-6.2">AUT.</ref></mentioned> 
                               Soluit dicens causam esse sumptam
                               <gloss target="#ment-6.2">ab inequalitate, vtrobique <app>
@@ -165,20 +162,12 @@
                                   <lem>per ypatem</lem>
                                   <rdg wit="#Ma #Pu #Pz" ana="#lexical">parypaten</rdg>
                               </app> facto, propter <app>
-                                  <lem>eius</lem>
-                                  <rdg wit="#π" ana="#morphological #J">eam</rdg>
-                              </app> esse
-                              <app>
-                                  <lem>supremum</lem>
-                                  <rdg wit="#π" ana="#morphological #J">supremam</rdg>
+                                  <lem>eius esse supremum</lem>
+                                  <rdg wit="#π" ana="#morphological #J">eam esse supremam</rdg>
                               </app>. Nam in vnoquoque istorum est quedam passio et difficultas, quod autem <app>
                                   <lem>tale</lem>
                                   <rdg wit="#λ" ana="#additive">tale est</rdg>
-                              </app>, <app>
-                                  <lem>siue</lem>
-                                  <rdg wit="#Vo" ana="#lexical #J">seu</rdg>
-                                  <rdg wit="#Gu #Pq" ana="#additive #J">Inequale seu</rdg>
-                              </app> sit 
+                              </app>, siue sit 
                               <gloss target="#ment-6.2">in magnitudine <app>
                                   <lem>
                                       <app>
@@ -209,25 +198,19 @@
                                       <lem>huius</lem>
                                       <rdg wit="#Nu #Vb" ana="#lexical">huiusmodi</rdg>
                                   </app> pulsu scribitur 
-                                <ref><title ref="https://viaf.org/viaf/2531163877720046060000/">de
+                                <ref target="https://viaf.org/viaf/2531163877720046060000/"><title>de
                                     differentiis pulsuum</title></ref>
                                     <bibl><seg>a</seg></bibl>
-                                      <name ref="https://viaf.org/viaf/44299175/">galeno.</name></ref>
-                              </cit> <app>
-                                  <lem>Ceu</lem>
-                                  <rdg wit="#Ea #Vo" ana="#lexical">Seu</rdg>
-                              </app> in bellis tubarum clangor bellantes concitat in furorem, 
+                                      <ref target="https://viaf.org/viaf/44299175/"><persName>galeno.</persName></ref></ref>
+                              </cit> Ceu in bellis tubarum clangor bellantes concitat in furorem, 
                               in oppositis autem vt in choreis oppositum <app>
                                   <lem>expetitur</lem>
                                   <rdg wit="#γ #Vo" ana="#lexical">experitur</rdg>
-                              </app>, ac similiter in mortuorum lamentatione. Et <app>
-                                  <lem>id</lem>
-                                  <rdg wit="#α" ana="#lexical">illud</rdg>
-                                  <rdg wit="#π" ana="#lexical #J">hoc</rdg>
-                              </app> est quod <app>
+                              </app>, ac similiter in mortuorum lamentatione. Et id est quod <app>
                                   <lem>subditur</lem>
                                   <rdg wit="#π #Ea" ana="#morphological">subdit</rdg>
-                              </app> a contrariis probando pretactum, inquiens quod <gloss target="#ment-6.2">
+                              </app> a contrariis probando pretactum, inquiens quod 
+                              <gloss target="#ment-6.2">
                                   illud quod est equale in cantu et vnum conseruans tenorem non est <app>
                                       <lem>plorabile</lem>
                                       <rdg wit="#γ" ana="#lexical">proportionabile</rdg>
@@ -247,16 +230,12 @@
                                   <rdg wit="#Gu #Pp #Pu" ana="#lexical #J">anteriores</rdg>
                               </app> exponere.</p>
                         <p n="3">Nosce quod <cit>
-                                <quote rend="inline">"pondus est illud in <app>
-                                        <lem>quo</lem>
-                                        <rdg wit="#Ca #Pu #Vo" ana="#morphological #J">quod</rdg>
-                                        <rdg wit="#Pp #Pq #Pz" ana="#morphological #J">quid</rdg>
-                                    </app> proportiones"</quote>
-                                <app>
+                                <quote rend="inline">"pondus est illud in quo proportiones"</quote>
+                                <ref><app>
                                     <lem>secundum 
-                                      <persName ref="http://viaf.org/viaf/89770781">auicenna</persName></lem>
+                                        <ref target="http://viaf.org/viaf/89770781"><persName>auicenna</persName></ref></lem>
                                     <rdg wit="#π" ana="#subtractive #J"/>
-                                </app>
+                                </app></ref>
                                 <quote rend="inline">
                                     "<app>
                                         <lem>cadunt musice</lem>
@@ -277,7 +256,7 @@
                                     illeque rerum"</quote>
                                 <bibl><biblScope unit="book" n="1"><num type="ordinal"
                                       value="1">primo</num></biblScope></bibl>
-                                    <ref><title ref="http://viaf.org/viaf/186598616">peryarmenias.</title>
+                                    <ref target="http://viaf.org/viaf/186598616"><title>peryarmenias.</title>
                                     </ref></cit> 
                             Vnde si res fuerit <app>
                                 <lem>alta</lem>
@@ -286,10 +265,7 @@
                                 <lem>contingit</lem>
                                 <rdg wit="#Ma #Nu #Pz" ana="#lexical">conuenit</rdg>
                             </app> tragedia ipsam exprimere. 
-                            Si autem econtra comedia vt modus coaptetur rei <app>
-                                <lem>ceu</lem>
-                                <rdg wit="#Ea #Vm #Vo" ana="#lexical">seu</rdg>
-                            </app> proprietas subiecto.</p>
+                            Si autem econtra comedia vt modus coaptetur rei ceu proprietas subiecto.</p>
                     </div>
                   </div>
                 </div>
@@ -512,36 +488,6 @@
                                             />
                                         </witness>
                                     </listWit>
-                                </witness>
-                            </listWit>
-                        </div>
-                        <div type="section" xml:id="bibliography-early-editions">
-                            <head>Editions: Witnesses</head>
-                            <listWit xml:id="early-editions">
-                                <witness xml:id="m">
-                                    <abbr type="siglum">m</abbr>
-                                    <bibl>
-                                        <editor><name>Illarius, Stephanus</name></editor>.
-                                            <title>Expositio succinta problematum Aristotelis quam
-                                            Petrus edidit Paduanus</title> (accessed 2022-01-03).
-                                            <pubPlace>Mantua</pubPlace>: <publisher>Paulus de
-                                            Butzbach</publisher>, <date>1475</date>. <ptr
-                                            target="http://daten.digitale-sammlungen.de/~db/0006/bsb00068444/images/"
-                                        />
-                                    </bibl>
-                                </witness>
-                                <witness xml:id="v">
-                                    <abbr type="siglum">v</abbr>
-                                    <bibl>
-                                        <editor><name>Anonymous</name></editor>. <title>Expositio
-                                            preclarissimi atque eximii artium ac medicine doctoris
-                                            Petri de Ebano Patauini in librorum problematum
-                                            Aristotelis</title> (accessed 2022-01-03).
-                                            <pubPlace>[Venice]</pubPlace>: <publisher>Johannes
-                                            Herbort</publisher>, <date>1482</date>. <ptr
-                                            target="http://daten.digitale-sammlungen.de/~db/0005/bsb00058463/images/"
-                                        />
-                                    </bibl>
                                 </witness>
                             </listWit>
                         </div>
