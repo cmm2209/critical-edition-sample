@@ -72,401 +72,257 @@
                       <div type="section">
                         <head><num type="ordinal" value="6">Sextum</num> problema</head>
                         <p n="1"><mentioned><app>
-                                    <lem wit="#Pp #Pu #Vm #Vo">PROPTER QUID PARYPATE</lem>
-                                    <rdg wit="#Pq" ana="#lexical">PROPTER QUID RATIONABILE EST</rdg>
-                                    <rdg wit="#β #λ #Ea #Vb #Vz" ana="#subtractive"/>
-                                    <rdg wit="#Gu #Ma #Mb #Px #Pz #Va #m #v" ana="#additive"><seg
-                                            xml:id="ment-6.1" n="1">PROPTER QUID PAR YPATE SECUNDUM
+                                    <lem><seg xml:id="ment-6.1" n="1">PROPTER QUID PAR YPATE SECUNDUM
                                             RATIONEM IN CANTIBUS TRAGICUM.</seg>
                                         <seg xml:id="ment-6.2" n="2">AUT PROPTER INEQUALITATEM?
                                             PASSIUUM ENIM INEQUALE, ET IN MAGNITUDINE FORTUNE AUT
                                             TRISTITIE. EQUALE AUTEM MINUS PLORABILE UEL
-                                            ULULABILE.</seg></rdg>
+                                            ULULABILE.</seg></lem>
+                                    <rdg wit="#β #λ #Ea #Vb #Vz" ana="#subtractive"/>
+                                    <rdg wit="#Pp #Pu #Vm #Vo" ana="#subtractive">PROPTER QUID PARYPATE</rdg>
                                 </app></mentioned>
                             <gloss target="#ment-6.1"><app>
-                                    <lem wit="#α #π #Px #m #v">Quare</lem>
-                                    <rdg wit="#λ" ana="#additive">Querit quare</rdg>
-                                </app> rationabile <app>
-                                    <lem wit="#α #κ #m #v">existit</lem>
-                                    <rdg wit="#π" ana="#lexical #J">est</rdg>
-                                </app> quod <app>
-                                    <lem wit="#γ #κ #Ea #Nu #m #v">genus cantandi tragicum</lem>
-                                    <rdg wit="#Py" ana="#lexical">genus cantandi traycum</rdg>
-                                    <rdg wit="#π" ana="#subtractive #J"><app>
-                                            <lem wit="#Pp #Pu #Pz #Vo" ana="#J">genus tragicum</lem>
-                                            <rdg wit="#Gu" ana="#ordinal #J">tragicum genus</rdg>
-                                        </app></rdg>
-                                </app>
-                                <app>
-                                    <lem wit="#α #κ #Gu #Pp #Vo #m">per ypatem</lem>
-                                    <rdg wit="#Va" ana="#morphological">per ypate</rdg>
-                                    <rdg wit="#Pu #Pz #v" ana="#lexical">parypatem</rdg>
-                                </app> cantetur?</gloss>
-                            <app>
-                                <lem wit="#α #Px #Vm #Vz">Nosce quod</lem>
-                                <rdg wit="#m #v" ana="#lexical">Notandum quod</rdg>
-                                <rdg wit="#π #Ma" ana="#subtractive">Nosce</rdg>
+                                <lem>Quare</lem>
+                                <rdg wit="#λ" ana="#additive">Querit quare</rdg>
+                            </app> rationabile <app>
+                                <lem>existit</lem>
+                                <rdg wit="#π" ana="#lexical #J">est</rdg>
+                            </app> quod genus <app>
+                                <lem>cantandi</lem>
+                                <rdg wit="#π" ana="#subtractive #J"/>
+                            </app> tragicum per ypatem cantetur?</gloss>
+                            Nosce <app>
+                                <lem>quod</lem>
+                                <rdg wit="#π #Ma" ana="#subtractive"/>
                             </app> circa genus <app>
-                                <lem wit="#α #κ #m #v">armonicum</lem>
-                                <rdg wit="#π" ana="#additive #J"><app>
-                                        <lem wit="#Gu #Pp #Pu #Pz" ana="#J">armoniarum uel
-                                            armonicum</lem>
-                                        <rdg wit="#Ca #Pa #Vo" ana="#additive #J">armoniam uel
-                                            armonicum</rdg>
-                                    </app></rdg>
-                            </app> quodcumque duplicem maneriem cantandi constare, <app>
-                                <lem wit="#β #κ #Gu #Ea #Pu #Pz #Vb #Vo #m #v">quedam enim</lem>
-                                <rdg wit="#Pp" ana="#lexical #J">quidem enim</rdg>
-                                <rdg wit="#Va" ana="#lexical">que</rdg>
-                            </app> est
-                            <app>
-                                <lem wit="#α #κ #m #v">comedia</lem>
+                                <lem>armonicum</lem>
+                                <rdg wit="#π" ana="#additive #J">armoniarum vel armonicum</rdg>
+                            </app> quodcumque duplicem maneriem cantandi constare, quedam enim est <app>
+                                <lem>comedia</lem>
                                 <rdg wit="#π" ana="#additive #J">comedia et</rdg>
-                            </app> altera tragedia. Est autem comedia <app>
-                                <lem wit="#α #κ #Gu #Pq #Vo #m #v">canticum</lem>
-                                <rdg wit="#Pp #Pu #Pz" ana="#lexical #J">cantus</rdg>
-                            </app> agreste <app>
-                                <lem wit="#α #κ #m #v">que</lem>
+                            </app> altera tragedia. Est autem comedia canticum agreste <app>
+                                <lem>que</lem>
                                 <rdg wit="#π" ana="#subtractive #J"/>
-                            </app> res priuatarum <app>
-                                <lem wit="#β #κ #Ea #Pp #Pu #Vo #m #v">et humilium personarum</lem>
-                                <rdg wit="#Pz" ana="#ordinal #J">personarum et humilium</rdg>
-                                <rdg wit="#Gu" ana="#subtractive #J">et humilium</rdg>
-                                <rdg wit="#γ" ana="#lexical">et habilium personarum</rdg>
-                            </app>
+                            </app> res priuatarum et <app>
+                                <lem>humilium</lem>
+                                <rdg wit="#γ" ana="#lexical">habilium</rdg>
+                            </app> personarum
                             <app>
-                                <lem wit="#α #κ #m #v">comprehendit</lem>
+                                <lem>comprehendit</lem>
                                 <rdg wit="#π" ana="#morphological #J">comprehendens</rdg>
-                            </app>, et dicitur a cosmos quod est <app>
-                                <lem wit="#β #γ #κ #m #v">villa uel laus</lem>
-                                <rdg wit="#π #Ea" ana="#subtractive">villa</rdg>
-                            </app> secundum aliquos. Grece tamen mundus et <app>
-                                <lem wit="#α #κ #Pz #Vo #m #v">odi</lem>
-                                <rdg wit="#Gu #Pp #Pu" ana="#morphological">odos</rdg>
-                            </app> cantus quasi mondanus et vulgaris cantus, <app>
-                                <lem wit="#β #π #Ea #Px #Vb #Vz #m #v">de rebus enim</lem>
-                                <rdg wit="#Va" ana="#ordinal">enim de rebus</rdg>
-                                <rdg wit="#Ma #Vm" ana="#subtractive">de rebus</rdg>
-                            </app> vulgaribus tractat et affinibus cotidiane
-                                    <app>
-                                        <lem wit="#κ">locutionis</lem>
-                                        <rdg wit="#Py" ana="#orthographical">loqutionis</rdg>
-                                        <rdg wit="#π #Ea #Nu #Va #m #v" ana="#morphological"
-                                            >locutioni</rdg>
-                                    </app>. Vel dicitur <app>
-                                <lem wit="#Py">a commessatione</lem>
-                                <rdg wit="#γ #m #v" ana="#orthographical">a commestione</rdg>
-                                <rdg wit="#Px" ana="#lexical">a conmiseratione</rdg>
-                                <rdg wit="#Vm" ana="#lexical">a commensuratione</rdg>
-                                <rdg wit="#Vz" ana="#lexical">a commesatione</rdg>
-                                <rdg wit="#Ma" ana="#lexical">a commensatione</rdg>
+                            </app>, et dicitur a cosmos quod est villa <app>
+                                <lem>vel laus</lem>
+                                <rdg wit="#π #Ea" ana="#subtractive"/>
+                            </app> secundum aliquos. 
+                            Grece tamen mundus et odi cantus quasi mundanus et vulgaris cantus, de rebus <app>
+                                <lem>enim</lem>
+                                <rdg wit="#Ma #Vm" ana="#subtractive"/>
+                            </app> vulgaribus tractat et affinibus cotidiane <app>
+                                <lem>locutionis</lem>
+                                <rdg wit="#π #Ea #Nu #Va" ana="#morphological">locutioni</rdg>
+                            </app>. Vel dicitur <app>
+                                <lem>a commessatione</lem>
                                 <rdg wit="#π" ana="#additive #J">a commessatione quia</rdg>
-                                <rdg wit="#Nu" ana="#lexical">accessatione</rdg>
-                                <rdg wit="#Ea" ana="#lexical">accensatione</rdg>
+                                <rdg wit="#Px" ana="#lexical">a commiseratione</rdg>
+                                <rdg wit="#Vm" ana="#lexical">a commensuratione</rdg>
+                                <rdg wit="#Ea #Nu" ana="#lexical">accessatione</rdg>
                             </app> post cibum, <app>
-                                <lem wit="#α #κ #m #v">enim</lem>
+                                <lem>enim</lem>
                                 <rdg wit="#π" ana="#subtractive #J"/>
-                            </app>
-                            <app>
-                                <lem wit="#γ #κ #Ea #Nu #Pz #Vo #m #v">homines solebant</lem>
-                                <rdg wit="#Gu #Pp #Pu #Py" ana="#ordinal">solebant homines</rdg>
-                            </app> ad eam audiendam conuenire. Tragedia uero <app>
-                                <lem wit="#γ #κ #Ea #Gu #Pp #Pu #Vo #m #v">est modus carminis</lem>
-                                <rdg wit="#β" ana="#morphological">est modus carminum</rdg>
-                                <rdg wit="#Pz" ana="#subtractive #lexical #J">cantans</rdg>
-                            </app> quo poete in luctibus regum utebantur. <app>
-                                <lem wit="#γ #κ #Ea #Nu #m #v">Dicta</lem>
+                            </app> homines solebant ad eam audiendam conuenire. Tragedia vero est modus <app>
+                                <lem>carminis</lem>
+                                <rdg wit="#β" ana="#morphological">carminum</rdg>
+                            </app> quo poete in luctibus regum vtebantur. <app>
+                                <lem>Dicta</lem>
                                 <rdg wit="#π" ana="#morphological #J">Dictus</rdg>
-                                <rdg wit="#Py" ana="#morphological">Dictum</rdg>
                             </app> a tragos quod <app>
-                                <lem wit="#α #π #Vz #m #v">est</lem>
+                                <lem>est</lem>
                                 <rdg wit="#Ma #Px #Vm" ana="#lexical">dicitur</rdg>
-                            </app> yrcus et <app>
-                                <lem wit="#α #Ma #Pu #Px #Pz #Vo #Vz #m #v">odi</lem>
-                                <rdg wit="#Vm" ana="#orthographical">ody</rdg>
-                                <rdg wit="#Gu #Pp #Pq" ana="#morphological #J">odos</rdg>
+                            </app> yrcus et odi <app>
+                                <lem>cantus</lem>
+                                <rdg wit="#Vo" ana="#additive #J">quod est cantus</rdg>
                             </app>
                             <app>
-                                <lem wit="#α #κ #Gu #Pq #Pz #m #v">cantus</lem>
-                                <rdg wit="#Ca #Pa #Pp #Pu #Vo" ana="#additive #J">quod est
-                                    cantus</rdg>
-                            </app>
-                            <app>
-                                <lem wit="#κ">quasi</lem>
-                                <rdg wit="#Pz" ana="#lexical #J">in</rdg>
-                                <rdg wit="#Va" ana="#lexical">et</rdg>
-                                <rdg wit="#β #Ea #Gu #Pp #Pu #Vb #Vo #m #v" ana="#lexical"
-                                    >inde</rdg>
+                                <lem>quasi</lem>
+                                <rdg wit="#β #Ea #Vb #Vo" ana="#lexical">inde</rdg>
                             </app> hyrcinus cantus. Et quia materia erat <app>
-                                <lem wit="#α #π #Px #m #v">tristis</lem>
+                                <lem>tristis</lem>
                                 <rdg wit="#λ" ana="#additive">tristis et</rdg>
                             </app>
                             <app>
-                                <lem wit="#Ea #Pu #Pz #Vm #Vo">feda</lem>
-                                <rdg wit="#Vz" ana="#lexical">fetida</rdg>
-                                <rdg wit="#β #γ #Gu #Ma #Pp #Px #m #v" ana="#lexical">seda</rdg>
+                                <lem>feda</lem>
+                                <rdg wit="#β #γ #Ma #Px" ana="#lexical">seda</rdg>
                             </app>, <app>
-                                <lem wit="#β #Gu #Pp #Vb">huiusmodi</lem>
-                                <rdg wit="#κ #Ea #Pu #Pz #Va #Vo #m #v" ana="#lexical">huius</rdg>
-                            </app> animal ut yrcum
-                            <app>
-                                <lem wit="#β #κ #Ea #Gu #Pp #Pu #Vb #m #v">pro munere</lem>
-                                <rdg wit="#Pz" ana="#lexical #J">perminuere</rdg>
-                                <rdg wit="#Va" ana="#lexical">provire</rdg>
-                                <rdg wit="#Ca #Vc #Vo" ana="#lexical #J">pro numero</rdg>
+                                <lem>huiusmodi</lem>
+                                <rdg wit="#κ #Ea #Va #Vo" ana="#lexical">huius</rdg>
+                            </app> animal vt yrcum pro <app>
+                                <lem>munere</lem>
+                                <rdg wit="#Vo" ana="#lexical #J">numero</rdg>
                             </app>
                             <app>
-                                <lem wit="#β #γ #κ #m #v">poematis</lem>
-                                <rdg wit="#Ea" ana="#lexical">poanatis</rdg>
+                                <lem>poematis</lem>
                                 <rdg wit="#π" ana="#subtractive #J"/>
+                            </app> accipiebant additur. <app>
+                                <lem>Et</lem>
+                                <rdg wit="#π #Nu" ana="#lexical">Etiam</rdg>
                             </app>
                             <app>
-                                <lem wit="#β #κ #Ea #Gu #Pp #Pu #Pz #Vb #m #v">accipiebant</lem>
-                                <rdg wit="#Vo" ana="#morphological #J">accipiebantur</rdg>
-                                <rdg wit="#Va" ana="#lexical">recipiebant</rdg>
+                                <lem>maneries a quibus <num type="ordinal" value="3">3°</num></lem>
+                                <rdg wit="#π #Ma #Nu" ana="#lexical">maneries a quibusdam 
+                                    <num type="ordinal" value="3">3<hi rend="superscript">a</hi></num></rdg>
+                            </app> satira dicta que carmine <app>
+                                <lem>construitur</lem>
+                                <rdg wit="#γ" ana="#lexical">constituitur</rdg>
                             </app>
                             <app>
-                                <lem wit="#γ #κ #Ea #m #v">additur. Et</lem>
-                                <rdg wit="#π #Nu" ana="#lexical">additur. Etiam</rdg>
-                                <rdg wit="#Py" ana="#lexical">quod dicitur in</rdg>
-                            </app> maneries a quibus <num type="ordinal" value="3">tertio</num>
-                            satira dicta que carmine <app>
-                                <lem wit="#β #κ #Ea #Gu #Pp #Pu #Vo #m #v">construitur</lem>
-                                <rdg wit="#γ #Pz" ana="#lexical">constituitur</rdg>
+                                <lem>reprehensorio</lem>
+                                <rdg wit="#Vo" ana="#morphological #J">reprehensoris</rdg>
                             </app>
                             <app>
-                                <lem wit="#α #κ #Gu #Pp #Pq #m #v">reprehensorio</lem>
-                                <rdg wit="#Ca #Pa #Vc #Vo" ana="#morphological #J"
-                                    >reprehensoris</rdg>
-                                <rdg wit="#Pu" ana="#morphological #J">reprehensorior</rdg>
-                                <rdg wit="#Pz" ana="#morphological #J">reprehensionis</rdg>
-                            </app>
-                            <app>
-                                <lem wit="#β #γ #κ #Pz #m #v">ceu</lem>
-                                <rdg wit="#Ea #Vc #Vo" ana="#lexical">seu</rdg>
+                                <lem>ceu</lem>
+                                <rdg wit="#Vo" ana="#lexical">seu</rdg>
                                 <rdg wit="#Gu #Pp #Pu" ana="#lexical #J">sicut</rdg>
                             </app> modus <ref 
                                 target="http://viaf.org/viaf/100227522"><persName>oratii</persName></ref>
                                 fuit maxime.</p>
-                        <p n="2"><mentioned><app>
-                                        <lem wit="#α #κ #Pp #Pu #Pz #Vo">AUT.</lem>
-                                        <rdg wit="#Gu #m #v" ana="#additive">AUT QUIA.</rdg>
-                                    </app></mentioned> Soluit dicens causam esse sumptam
-                            <gloss target="#ment-6.2">ab inequalitate, vtrobique <app>
-                                    <lem wit="#κ #π">enim</lem>
-                                    <rdg wit="#m #v" ana="#lexical">scilicet</rdg>
-                                    <rdg wit="#β #γ" ana="#lexical">uidelicet</rdg>
-                                    <rdg wit="#Ea" ana="#lexical">uidet</rdg>
-                                </app> inest quedam inequalitas</gloss>, ut in cantu tragico et
-                            <app>
-                                <lem wit="#α #Gu #Pp #Pu #Px #Vm #Vo #Vz #m #v">per ypatem</lem>
-                                <rdg wit="#Ma #Pu #Pz" ana="#lexical">parypaten</rdg>
-                            </app> facto, propter
-                            <app>
-                                <lem wit="#β #Ea #Px #Vb #Vm #Vz #m #v">eius esse</lem>
-                                <rdg wit="#Ma #Mb" ana="#ordinal">esse eius</rdg>
-                                <rdg wit="#π" ana="#morphological #J">eam esse</rdg>
-                                <rdg wit="#Va" ana="#additive">eius at esse</rdg>
-                            </app>
-                            <app>
-                                <lem wit="#α #κ #m #v">supremum</lem>
-                                <rdg wit="#π" ana="#morphological #J">supremam</rdg>
-                            </app>. Nam in <app>
-                                <lem wit="#α #κ #Pp #Pu #Pz #Vo #m #v">vnoquoque</lem>
-                                <rdg wit="#Gu #Pq" ana="#lexical #J">vtroque</rdg>
-                            </app> istorum est quedam passio et difficultas, quod autem 
-                            <app>
-                                <lem wit="#α #Pp #Px #Vo #m #v">tale</lem>
-                                <rdg wit="#λ #Gu #Pq" ana="#additive">tale est</rdg>
-                            </app>, <app>
-                                <lem wit="#α #κ #m #v">siue</lem>
-                                <rdg wit="#Pp #Pu #Vo" ana="#lexical #J">seu</rdg>
-                                <rdg wit="#Pz" ana="#lexical #J">ceu</rdg>
-                                <rdg wit="#Gu #Pq" ana="#additive #J">Inequale seu</rdg>
-                            </app>
-                            <app>
-                                <lem wit="#α #κ #Pu #Pz #Vo #m #v">sit</lem>
-                                <rdg wit="#Gu #Pp #Pq" ana="#lexical #J">fit</rdg>
-                            </app>
-                            <gloss target="#ment-6.2">in magnitudine <app>
-                                    <lem wit="#β #Ma">fortune</lem>
-                                      <rdg wit="#γ #Px #Vm #Vz #m #v" ana="#lexical">fortitudine</rdg>
-                                        </app> ceu cantus magne letitie alicuius 
-                                <app>
-                                      <lem wit="#Ma #Px #Vm #Vz">magnatis</lem>
-                                      <rdg wit="#Py" ana="#additive">magnatis aut</rdg>
-                                      <rdg wit="#γ #Nu #m #v" ana="#additive">magnatis et</rdg>
-                                      <rdg wit="#Mb" ana="#additive">magnatis <surplus>uel
-                                         huius est inequale non eundem seruans tenorem</surplus></rdg>
-                                        </app>
-                                  probitatis, siue in magnitudine tristitie</gloss>, sicut mortis alicuius 
-                            excellentis <app>
-                                <lem wit="#γ #κ #Nu #m #v">uel</lem>
-                                <rdg wit="#π #Ea #Py" ana="#subtractive"/>
-                            </app>
-                            <app>
-                                <lem wit="#Gu #Pp #Vb #m #v">huiusmodi</lem>
-                                <rdg wit="#Ea #Ma #Nu #Pu #Px #Pz #Va #Vm #Vo #Vz" ana="#lexical"
-                                    >huius</rdg>
-                                <rdg wit="#Py" ana="#additive">ut nuper domini ubertim dicens
-                                    carraria uel hoc</rdg>
-                            </app>, est inequale, non eundem seruans tenorem. Quod autem est inequale et dissonum 
-                            <app>
-                                <lem wit="#α #π #Ma #Px">rationabile est</lem>
-                                <rdg wit="#m #v" ana="#morphological">rationabile erit</rdg>
-                                <rdg wit="#Vm #Vz" ana="#morphological">rationale est</rdg>
-                                <rdg wit="#Va" ana="#ordinal">est rationale</rdg>
-                            </app>, ut cantu exprimatur <app>
-                                <lem wit="#β #Gu #Pp #Vb">huiusmodi</lem>
-                                <rdg wit="#κ #Ea #Pu #Pz #Vo #m #v" ana="#lexical">huius</rdg>
-                                <rdg wit="#Va" ana="#lexical #additive">et huius</rdg>
-                            </app>, ut pondus meloticum
-                            <app>
-                                <lem wit="#γ #Nu #Pp #Pz #Vm #Vz #m #v">configeretur</lem>
-                                <rdg wit="#Ea" ana="#orthographical">confrigeretur</rdg>
-                                <rdg wit="#Mb #Pu #Vo" ana="#orthographical">configuretur</rdg>
-                                <rdg wit="#Py" ana="#orthographical">configueretur</rdg>
-                                <rdg wit="#Ma" ana="#additive">cum figeretur</rdg>
-                                <rdg wit="#Px" ana="#lexical">contingeretur</rdg>
-                                <rdg wit="#Pq" ana="#additive #J">velociter configeretur</rdg>
-                                <rdg wit="#Gu" ana="#additive #lexical #J">uelociter
-                                    consigneretur</rdg>
-                            </app> rei de qua existit. Tunc cantus consurgit <cit>
+                          <p n="2"><app>
+                              <lem n="maxime"/>
+                              <rdg wit="#Va #m #v" ana="#additive">Deinde.</rdg>
+                          </app>
+                              <mentioned><ref target="#ment-6.2">AUT.</ref></mentioned> 
+                              Soluit dicens causam esse sumptam
+                              <gloss target="#ment-6.2">ab inequalitate, vtrobique <app>
+                                  <lem>enim</lem>
+                                  <rdg wit="#β #γ" ana="#lexical">videlicet</rdg>
+                              </app> inest quedam inequalitas</gloss>, 
+                              vt in cantu tragico et <app>
+                                  <lem>per ypatem</lem>
+                                  <rdg wit="#Ma #Pu #Pz" ana="#lexical">parypaten</rdg>
+                              </app> facto, propter <app>
+                                  <lem>eius</lem>
+                                  <rdg wit="#π" ana="#morphological #J">eam</rdg>
+                              </app> esse
+                              <app>
+                                  <lem>supremum</lem>
+                                  <rdg wit="#π" ana="#morphological #J">supremam</rdg>
+                              </app>. Nam in vnoquoque istorum est quedam passio et difficultas, quod autem <app>
+                                  <lem>tale</lem>
+                                  <rdg wit="#λ" ana="#additive">tale est</rdg>
+                              </app>, <app>
+                                  <lem>siue</lem>
+                                  <rdg wit="#Vo" ana="#lexical #J">seu</rdg>
+                                  <rdg wit="#Gu #Pq" ana="#additive #J">Inequale seu</rdg>
+                              </app> sit 
+                              <gloss target="#ment-6.2">in magnitudine <app>
+                                  <lem>
+                                      <app>
+                                          <lem>fortune</lem>
+                                          <rdg wit="#γ #Px #Vm #Vz" ana="#lexical">fortitudine</rdg>
+                                      </app> ceu cantus magne letitie alicuius <app>
+                                          <lem>magnatis</lem>
+                                          <rdg wit="#γ #Nu" ana="#additive">magnatis et</rdg>
+                                      </app> probitatis, siue in magnitudine</lem>
+                                  <rdg wit="#π #Ea" cause="homeoteleuton" ana="#subtractive"/>
+                              </app> tristitie</gloss>, sicut mortis alicuius excellentis <app>
+                                  <lem>vel</lem>
+                                  <rdg wit="#π #Ea #Py" ana="#subtractive"/>
+                              </app>
+                              <app>
+                                  <lem>huiusmodi</lem>
+                                  <rdg wit="#κ #Ea #Nu #Va #Vo" ana="#lexical">huius</rdg>
+                              </app>, est inequale, non eundem seruans tenorem. Quod autem est inequale et dissonum <app>
+                                  <lem>rationabile</lem>
+                                  <rdg wit="#Vm #Vz" ana="#morphological">rationale</rdg>
+                              </app> est, vt cantu exprimatur <app>
+                                  <lem>huiusmodi</lem>
+                                  <rdg wit="#κ #Ea #Vo" ana="#lexical">huius</rdg>
+                              </app>, vt pondus meloticum configeretur rei de qua existit. 
+                              Tunc cantus consurgit <cit>
                                 <quote rend="inline" xml:id="quote-6.1-Gal">"eurithimus"</quote>
-                                <app>
-                                    <lem wit="#Ea #Ma #Pu #Px #Py #Pz #Va #Vm #Vo">sicut de
-                                        huius</lem>
-                                    <rdg wit="#Vz" ana="#ordinal">sicut huius de</rdg>
-                                    <rdg wit="#Gu #Nu #Pp #Vb #m #v" ana="#lexical">sicut de
-                                        huiusmodi</rdg>
-                                </app>
-                                <app>
-                                    <lem wit="#γ #κ #Ea #Nu #Pp #Pu #Pz #Vo #m #v">pulsu
-                                        scribitur</lem>
-                                    <rdg wit="#Py" ana="#morphological">pulsi scribitur</rdg>
-                                    <rdg wit="#Gu #Pq" ana="#lexical #J">cantu scribitur</rdg>
-                                </app>
-                                <ref target="https://viaf.org/viaf/2531163877720046060000/"><title>de
+                                  <ref>sicut de <app>
+                                      <lem>huius</lem>
+                                      <rdg wit="#Nu #Vb" ana="#lexical">huiusmodi</rdg>
+                                  </app> pulsu scribitur 
+                                <ref><title ref="https://viaf.org/viaf/2531163877720046060000/">de
                                     differentiis pulsuum</title></ref>
                                     <bibl><seg>a</seg></bibl>
-                                    <ref target="https://viaf.org/viaf/44299175/"><name>galeno.</name></ref>
-                            </cit> <app>
-                                <lem wit="#β #γ #κ #Pu #m #v">Ceu</lem>
-                                <rdg wit="#Ea #Gu #Pp #Pz #Vo" ana="#lexical">Seu</rdg>
-                            </app> in bellis tubarum clangor bellantes concitat in furorem, in oppositis 
-                            autem ut in choreis oppositum <app>
-                                <lem wit="#β #κ #Ea">expetitur</lem>
-                                <rdg wit="#γ #Gu #Pp #Pu #Vo #m #v" ana="#lexical">experitur</rdg>
-                                <rdg wit="#Pz" ana="#lexical #J">eproexperitur</rdg>
-                            </app>, ac similiter in mortuorum lamentatione. Et <app>
-                                <lem wit="#κ #Vb #m #v">id</lem>
-                                <rdg wit="#α" ana="#lexical">illud</rdg>
-                                <rdg wit="#π" ana="#lexical #J">hoc</rdg>
-                            </app> est quod
-                            <app>
-                                <lem wit="#β #γ #κ #m #v">subditur</lem>
-                                <rdg wit="#π #Ea" ana="#morphological">subdit</rdg>
-                            </app> a contrariis probando pretactum, <app>
-                                <lem wit="#α #κ #Pp #Pu #Pz #Vo #m #v">inquiens</lem>
-                                <rdg wit="#Gu #Pq" ana="#lexical">in conueniens</rdg>
-                            </app> quod <gloss target="#ment-6.2">illud quod est equale 
-                                in cantu et vnum conseruans tenorem non <app>
-                                    <lem wit="#α #κ #Gu #Pz #Vo #m #v">est</lem>
-                                    <rdg wit="#Pp #Pu" ana="#subtractive #J"/>
-                                </app>
-                                <app>
-                                    <lem wit="#β #κ #π #Ea">plorabile</lem>
-                                    <rdg wit="#γ #m #v" ana="#lexical">proportionabile</rdg>
-                                </app>
-                                <app>
-                                    <lem wit="#α #κ #Pp #Pu #Pz #m #v">aut</lem>
-                                    <rdg wit="#Gu #Pq" ana="#lexical #J">seu</rdg>
-                                </app>
-                                <app>
-                                    <lem wit="#β #κ #Va #m #v">ululabile</lem>
-                                    <rdg wit="#Vb" ana="#orthographical">ullulabile</rdg>
-                                    <rdg wit="#Ea" ana="#lexical" cert="low">amabilabile</rdg>
-                                    <rdg wit="#π" ana="#lexical #J">lamentabile</rdg>
-                                </app></gloss>, cum non sit quid passiuum, propter quod non est 
-                            conueniens ipsum <app>
-                                <lem wit="#Px #Pu #Pz #Vm #Vo #v">parypatem</lem>
-                                <rdg wit="#Ma" ana="#orthographical">parypaten</rdg>
-                                <rdg wit="#Ea" ana="#orthographical">paripatem</rdg>
-                                <rdg wit="#β #γ #Gu #Pp #Pq #Vz #m" ana="#lexical">per ypatem</rdg>
-                            </app> cuius est inequalitatem tenere sed per alias <app>
-                                <lem wit="#β #λ #Va #m #v">cordarum</lem>
-                                <rdg wit="#π #Px #Vb" ana="#morphological">cordas</rdg>
-                            </app>
-                            <app>
-                                <lem wit="#α #Ma #Px #Vm #Vo #v">mitiores</lem>
-                                <rdg wit="#Vz #m" ana="#orthographical">miciores</rdg>
-                                <rdg wit="#Pz" ana="#orthographical #J">mictiores</rdg>
-                                <rdg wit="#Gu #Pp #Pu" ana="#lexical #J">anteriores</rdg>
-                            </app> exponere.</p>
+                                      <name ref="https://viaf.org/viaf/44299175/">galeno.</name></ref>
+                              </cit> <app>
+                                  <lem>Ceu</lem>
+                                  <rdg wit="#Ea #Vo" ana="#lexical">Seu</rdg>
+                              </app> in bellis tubarum clangor bellantes concitat in furorem, 
+                              in oppositis autem vt in choreis oppositum <app>
+                                  <lem>expetitur</lem>
+                                  <rdg wit="#γ #Vo" ana="#lexical">experitur</rdg>
+                              </app>, ac similiter in mortuorum lamentatione. Et <app>
+                                  <lem>id</lem>
+                                  <rdg wit="#α" ana="#lexical">illud</rdg>
+                                  <rdg wit="#π" ana="#lexical #J">hoc</rdg>
+                              </app> est quod <app>
+                                  <lem>subditur</lem>
+                                  <rdg wit="#π #Ea" ana="#morphological">subdit</rdg>
+                              </app> a contrariis probando pretactum, inquiens quod <gloss target="#ment-6.2">
+                                  illud quod est equale in cantu et vnum conseruans tenorem non est <app>
+                                      <lem>plorabile</lem>
+                                      <rdg wit="#γ" ana="#lexical">proportionabile</rdg>
+                                  </app> aut <app>
+                                      <lem>ululabile</lem>
+                                      <rdg wit="#π" ana="#lexical #J">lamentabile</rdg>
+                                  </app></gloss>, 
+                              cum non sit quid passiuum, propter quod non est conueniens ipsum <app>
+                                  <lem>parypatem</lem>
+                                  <rdg wit="#β #γ #Vz" ana="#lexical">per ypatem</rdg>
+                              </app> cuius est inequalitatem tenere sed per alias <app>
+                                  <lem>cordarum</lem>
+                                  <rdg wit="#π #Px #Vb" ana="#morphological">cordas</rdg>
+                              </app>
+                              <app>
+                                  <lem>mitiores</lem>
+                                  <rdg wit="#Gu #Pp #Pu" ana="#lexical #J">anteriores</rdg>
+                              </app> exponere.</p>
                         <p n="3">Nosce quod <cit>
                                 <quote rend="inline">"pondus est illud in <app>
-                                        <lem wit="#α #κ #Gu #m #v">quo</lem>
+                                        <lem>quo</lem>
                                         <rdg wit="#Ca #Pu #Vo" ana="#morphological #J">quod</rdg>
                                         <rdg wit="#Pp #Pq #Pz" ana="#morphological #J">quid</rdg>
                                     </app> proportiones"</quote>
                                 <app>
-                                    <lem wit="#α #κ #m #v">secundum 
-                                      <ref target="http://viaf.org/viaf/89770781"><persName>auicenna</persName></ref></lem>
+                                    <lem>secundum 
+                                      <persName ref="http://viaf.org/viaf/89770781">auicenna</persName></lem>
                                     <rdg wit="#π" ana="#subtractive #J"/>
                                 </app>
                                 <quote rend="inline">
                                     "<app>
-                                        <lem wit="#γ #κ #Ea #Nu #m #v">cadunt <milestone ed="#Vz"
-                                                unit="folio" n="52v"/>musice</lem>
+                                        <lem>cadunt musice</lem>
                                         <rdg wit="#π" ana="#ordinal #J">musice cadunt</rdg>
-                                        <rdg wit="#Py" ana="#additive">cadunt musice et</rdg>
                                     </app>."</quote>
-                            </cit> Hoc autem pondus <app>
-                                <lem wit="#γ #λ #Ea #Nu #m #v">rebus expedit</lem>
-                                <rdg wit="#Py" ana="#lexical">rebus expetit</rdg>
-                                <rdg wit="#Px" ana="#lexical">rebus accidit</rdg>
-                                <rdg wit="#π" ana="#additive #J">expedit conformari rebus</rdg>
-                            </app> circa quas <app>
-                                <lem wit="#α #λ #Pz #Vo #m #v">extat</lem>
-                                <rdg wit="#Gu #Pp #Pu" ana="#morphological #J">extant</rdg>
-                                <rdg wit="#Px" ana="#lexical">extitat</rdg>
-                            </app>
-                            <app>
-                                <lem wit="#α #κ #m #v">configurari</lem>
-                                <rdg wit="#π" ana="#subtractive #J"/>
-                            </app>, <app>
-                                <lem wit="#α #κ #Gu #Pz #Vo #m #v">cum eo</lem>
-                                <rdg wit="#Pp #Pq #Pu #Vc" ana="#lexical #J">quod eo</rdg>
-                            </app> exprimantur passiones que sunt in anima.<cit>
+                        </cit> Hoc autem pondus <app>
+                            <lem>rebus expedit</lem>
+                            <rdg wit="#π" ana="#additive #J">expedit conformari rebus</rdg>
+                        </app> circa quas extat <app>
+                            <lem>configurari</lem>
+                            <rdg wit="#π" ana="#subtractive #J"/>
+                        </app>, cum eo exprimantur passiones que sunt in anima. <cit>
                                 <quote rend="inline">
-                                    "Voces enim sunt note passionum que sunt in 
-                                      <app>
-                                        <lem wit="#α #κ #m #v">ea</lem>
-                                        <rdg wit="#Gu #Pp #Pu #Pz" ana="#lexical #J">anima</rdg>
-                                       </app>
-                                     illeque rerum"</quote>
-                                <milestone ed="#Vb" unit="column" n="B"/>
+                                    "Voces enim sunt  note passionum que sunt in <app>
+                                        <lem>ea</lem>
+                                        <rdg wit="#Gu #Pp #Pu" ana="#lexical #J">anima</rdg>
+                                    </app>
+                                    illeque rerum"</quote>
                                 <bibl><biblScope unit="book" n="1"><num type="ordinal"
-                                                value="1">primo</num></biblScope></bibl>
-                                    <ref target="http://viaf.org/viaf/186598616"><title>peryarmenias.</title>
-                                    </ref></cit> Unde si res fuerit <app>
-                                <lem wit="#α #κ #Gu #Pz #Vo #m #v">alta</lem>
+                                      value="1">primo</num></biblScope></bibl>
+                                    <ref><title ref="http://viaf.org/viaf/186598616">peryarmenias.</title>
+                                    </ref></cit> 
+                            Vnde si res fuerit <app>
+                                <lem>alta</lem>
                                 <rdg wit="#Pp #Pq #Pu" ana="#lexical">altera</rdg>
-                            </app>
-                            in signis <app>
-                                <lem wit="#γ #Ea #Pp #Pu #Px #Py #Vm #Vo #m #v">contingit tragedia</lem>
-                                <rdg wit="#Gu #Pq" ana="#ordinal #J">tragedia contingit</rdg>
-                                <rdg wit="#Ma #Pz" ana="#lexical">conuenit tragedia</rdg>
-                                <rdg wit="#Nu" ana="#lexical">conuenit tregedia</rdg>
-                                <rdg wit="#Vz" ana="#lexical">querit tragedi</rdg>
-                            </app>
-                            ipsam exprimere. Si autem econtra comedia ut modus <app>
-                                <lem wit="#β #κ #Ea #Gu #Pp #Pu #Vb #Vo #m #v">coaptetur</lem>
-                                <rdg wit="#Pz #Vc" ana="#lexical #J">coagiretur</rdg>
-                                <rdg wit="#Va" ana="#lexical">coitetur</rdg>
-                            </app> rei <app>
-                                <lem wit="#β #γ #Ma #Mb #Px #Pz #Vz #m #v">ceu</lem>
-                                <rdg wit="#Ea #Gu #Pp #Pu #Vm #Vo" ana="#lexical">seu</rdg>
+                            </app> in signis <app>
+                                <lem>contingit</lem>
+                                <rdg wit="#Ma #Nu #Pz" ana="#lexical">conuenit</rdg>
+                            </app> tragedia ipsam exprimere. 
+                            Si autem econtra comedia vt modus coaptetur rei <app>
+                                <lem>ceu</lem>
+                                <rdg wit="#Ea #Vm #Vo" ana="#lexical">seu</rdg>
                             </app> proprietas subiecto.</p>
                     </div>
                   </div>
