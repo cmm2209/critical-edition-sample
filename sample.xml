@@ -169,39 +169,34 @@
                                   <rdg wit="#λ" ana="#additive">tale est</rdg>
                               </app>, siue sit 
                               <gloss target="#ment-6.2">in magnitudine <app>
-                                  <lem>
-                                      <app>
-                                          <lem>fortune</lem>
-                                          <rdg wit="#γ #Px #Vm #Vz" ana="#lexical">fortitudine</rdg>
-                                      </app> ceu cantus magne letitie alicuius <app>
-                                          <lem>magnatis</lem>
-                                          <rdg wit="#γ #Nu" ana="#additive">magnatis et</rdg>
-                                      </app> probitatis, siue in magnitudine</lem>
-                                  <rdg wit="#π #Ea" cause="homeoteleuton" ana="#subtractive"/>
-                              </app> tristitie</gloss>, sicut mortis alicuius excellentis <app>
+                                  <lem>fortune</lem>
+                                  <rdg wit="#γ #Px #Vm #Vz" ana="#lexical">fortitudine</rdg>
+                              </app> ceu cantus magne letitie alicuius <app>
+                                  <lem>magnatis</lem>
+                                  <rdg wit="#γ #Nu" ana="#additive">magnatis et</rdg>
+                              </app> probitatis, siue in magnitudine tristitie</gloss>, 
+                              sicut mortis alicuius excellentis <app>
                                   <lem>vel</lem>
                                   <rdg wit="#π #Ea #Py" ana="#subtractive"/>
                               </app>
                               <app>
                                   <lem>huiusmodi</lem>
                                   <rdg wit="#κ #Ea #Nu #Va #Vo" ana="#lexical">huius</rdg>
-                              </app>, est inequale, non eundem seruans tenorem. Quod autem est inequale et dissonum <app>
-                                  <lem>rationabile</lem>
-                                  <rdg wit="#Vm #Vz" ana="#morphological">rationale</rdg>
-                              </app> est, vt cantu exprimatur <app>
+                              </app>, est inequale, non eundem seruans tenorem. 
+                              Quod autem est inequale et dissonum rationabile est, vt cantu exprimatur <app>
                                   <lem>huiusmodi</lem>
                                   <rdg wit="#κ #Ea #Vo" ana="#lexical">huius</rdg>
                               </app>, vt pondus meloticum configeretur rei de qua existit. 
                               Tunc cantus consurgit <cit>
                                 <quote rend="inline" xml:id="quote-6.1-Gal">"eurithimus"</quote>
-                                  <ref>sicut de <app>
+                                  <bibl><seg>sicut de <app>
                                       <lem>huius</lem>
                                       <rdg wit="#Nu #Vb" ana="#lexical">huiusmodi</rdg>
-                                  </app> pulsu scribitur 
+                                  </app> pulsu scribitur</seg></bibl>
                                 <ref target="https://viaf.org/viaf/2531163877720046060000/"><title>de
                                     differentiis pulsuum</title></ref>
                                     <bibl><seg>a</seg></bibl>
-                                      <ref target="https://viaf.org/viaf/44299175/"><persName>galeno.</persName></ref></ref>
+                                      <ref target="https://viaf.org/viaf/44299175/"><persName>galeno.</persName></ref>
                               </cit> Ceu in bellis tubarum clangor bellantes concitat in furorem, 
                               in oppositis autem vt in choreis oppositum <app>
                                   <lem>expetitur</lem>
@@ -214,10 +209,7 @@
                                   illud quod est equale in cantu et vnum conseruans tenorem non est <app>
                                       <lem>plorabile</lem>
                                       <rdg wit="#γ" ana="#lexical">proportionabile</rdg>
-                                  </app> aut <app>
-                                      <lem>ululabile</lem>
-                                      <rdg wit="#π" ana="#lexical #J">lamentabile</rdg>
-                                  </app></gloss>, 
+                                  </app> aut ululabile</gloss>, 
                               cum non sit quid passiuum, propter quod non est conueniens ipsum <app>
                                   <lem>parypatem</lem>
                                   <rdg wit="#β #γ #Vz" ana="#lexical">per ypatem</rdg>
@@ -231,11 +223,11 @@
                               </app> exponere.</p>
                         <p n="3">Nosce quod <cit>
                                 <quote rend="inline">"pondus est illud in quo proportiones"</quote>
-                                <ref><app>
+                                <app>
                                     <lem>secundum 
                                         <ref target="http://viaf.org/viaf/89770781"><persName>auicenna</persName></ref></lem>
                                     <rdg wit="#π" ana="#subtractive #J"/>
-                                </app></ref>
+                                </app>
                                 <quote rend="inline">
                                     "<app>
                                         <lem>cadunt musice</lem>
